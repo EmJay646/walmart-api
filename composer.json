@@ -60,5 +60,10 @@
     },
     "autoload-dev": {
         "psr-4": { "Walmart\\Test\\" : "test/" }
+    },
+     "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
     }
 }
